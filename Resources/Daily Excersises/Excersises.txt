@@ -1,0 +1,200 @@
+1. What is Python language?
+2. What are the key features of Python?
+3. Differentiate between lists and tuples.
+4. Explain the ternary operator in Python.
+5. What are negative indices?
+6. Is Python case-sensitive?
+7. How long can an identifier be in Python?
+8. How would you convert a string into lowercase?
+9. What is the pass statement in Python?
+10. Explain help() and dir() functions in Python.
+11. How do you get a list of all the keys in a dictionary?
+12. What is slicing?
+13. How would you declare a comment in Python?
+14. How will you check if all characters in a string are alphanumeric?
+15. How will you capitalize the first letter of a string?
+16. We know Python is all the rage these days. But to be truly accepting of a great technology, you must know its pitfalls as well. Would you like to talk about this?
+17. How do you insert an object at a given index in Python?
+18. And how do you reverse a list?
+19. What is the Python interpreter prompt?
+20. How does a function return values?
+21. How would you define a block in Python?
+22. Why do we need break and continue in Python?
+23. Will the do-while loop work if you don’t end it with a semicolon?
+24. In one line, show us how you’ll get the max alphabetical character from a string.
+25. What is Python good for?
+26. Can you name ten built-in functions in Python and explain each in brief?
+27. How will you convert a list into a string?
+28. Can you explain the life cycle of a thread?
+29. What is a dictionary in Python?
+30. Explain the //, %, and ** operators in Python.
+31) What are the benefits of using Python?
+32) What is a dynamically typed language?
+33) What is an Interpreted language?
+34) What is PEP 8 and why is it important?	
+35) How is memory managed in Python?
+36) What are Python namespaces? Why are they used?
+37) What is Scope in Python?	
+38) What is Scope Resolution in Python?
+39) What are decorators in Python?
+40) What are lists and tuples? What is the key difference between the two?
+41) What are Dict and List comprehensions?
+42) What are the common built-in data types in Python?
+43) What is lambda in Python? Why is it used?
+44) What is pass in Python?
+45) How do you copy an object in Python?
+46) What is the difference between xrange and range in Python?
+47) What are modules and packages in Python?
+48) What are global, protected and private attributes in Python?
+49) What is self in Python?
+50) What is __init__?
+51) What is break, continue and pass in Python?
+52) What is pickling and unpickling?
+53) What are generators in Python?
+54) What is PYTHONPATH in Python?
+55) What is the use of help() and dir() functions?
+56) What is the difference between .py and .pyc files?
+57) How Python is interpreted?
+58) What are unittests in Python?
+59) What is docstring in Python?
+60) How are arguments passed by value or by reference in python?
+61) What are iterators in Python?
+62) What is slicing in Python?
+63) Explain how can you make a Python Script executable on Unix?
+64) Explain how to delete a file in Python?
+65) Explain split() and join() functions in Python?
+66) What is the difference between Python Arrays and lists?
+67) What does *args and **kwargs mean?
+68) What are negative indexes and why are they used?
+69) What are the applications of Python?
+70) What do you mean by Python literals?
+71) Explain Python Functions?
+72) What is zip() function in Python?
+73) What is Python's parameter passing mechanism?
+74) How to overload constructors or methods in Python?
+75) What is the difference between remove() function and del statement?
+76) What is swapcase() function in the Python?
+77) How to remove whitespaces from a string in Python?
+78) How to remove leading whitespaces from a string in the Python?
+79) Why do we use join() function in Python?
+80) Give an example of shuffle() method?
+81) What is the use of break statement?
+82) What is tuple in Python?
+83) Which are the file related libraries/modules in Python?
+84) What are the different file processing modes supported by Python?
+85) What is an operator in Python?
+86) What are the different types of operators in Python?
+87) How to create a Unicode string in Python?
+88) is Python interpreted language?
+89) How is memory managed in Python?
+90) What is the Python decorator?
+91) What are the rules for a local and global variable in Python?
+92) What is the namespace in Python?
+93) What are iterators in Python?
+94) What is a generator in Python?
+95) What is slicing in Python?
+96) What is a dictionary in Python?
+97) What is Pass in Python?
+98) Explain docstring in Python?
+99) What is a negative index in Python?
+100) What is pickling and unpickling in Python?
+101) Which programming language is a good choice between Java and Python?
+102) What is the usage of help() and dir() function in Python?
+103) How can we make forms in Python?
+104) What are the differences between Python 2.x and Python 3.x?
+105) How can you organize your code to make it easier to change the base class?
+106) How Python does Compile-time and Run-time code checking?
+107) What is the shortest method to open a text file and display its content?
+108) What is the usage of enumerate () function in Python?
+109) Give the output of this example: A[3] if A=[1,4,6,7,9,66,4,94].
+110) What will be the output of ['!!Welcome!!']*2?
+111) What will be the output of data[-2] from the list data = [1,5,8,6,9,3,4]?
+112) How to send an email in Python Language?
+113) What is the difference between list and tuple?
+114) What is lambda function in Python?
+115) Why do lambda forms in Python not have the statements?
+116) How can you convert a number to string?
+117) Mention the rules for local and global variables in Python?
+118)
+119)
+120)
+121)
+122)
+123)
+124)
+125)
+126)
+127)
+128)
+129)
+130)
+131)
+132)
+133)
+134)
+135)
+136)
+137)
+138)
+139)
+140)
+141)
+142)
+143)
+144)
+145)
+146)
+147)
+148)
+149)
+150)
+151)
+152)
+153)
+154)
+155)
+156)
+157)
+158)
+159)
+160)
+161)
+162)
+163)
+164)
+165)
+166)
+167)
+168)
+169)
+170)
+171)
+172)
+173)
+174)
+175)
+176)
+177)
+178)
+179)
+180)
+181)
+182)
+183)
+184)
+185)
+186)
+187)
+188)
+189)
+190)
+191)
+192)
+193)
+194)
+195)
+196)
+197)
+198)
+199)
+200)
