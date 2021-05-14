@@ -115,86 +115,186 @@
 115) Why do lambda forms in Python not have the statements?
 116) How can you convert a number to string?
 117) Mention the rules for local and global variables in Python?
-118)
-119)
-120)
-121)
-122)
-123)
-124)
-125)
-126)
-127)
-128)
-129)
-130)
-131)
-132)
-133)
-134)
-135)
-136)
-137)
-138)
-139)
-140)
-141)
-142)
-143)
-144)
-145)
-146)
-147)
-148)
-149)
-150)
-151)
-152)
-153)
-154)
-155)
-156)
-157)
-158)
-159)
-160)
-161)
-162)
-163)
-164)
-165)
-166)
-167)
-168)
-169)
-170)
-171)
-172)
-173)
-174)
-175)
-176)
-177)
-178)
-179)
-180)
-181)
-182)
-183)
-184)
-185)
-186)
-187)
-188)
-189)
-190)
-191)
-192)
-193)
-194)
-195)
-196)
-197)
-198)
-199)
-200)
+118) What is pickling and unpickling?
+119) How is memory managed in Python?
+120) What are the tools that help to find bugs or perform the static analysis?
+121) What are Python decorators?
+122) What is the difference between list and tuple?
+123) How are arguments passed by value or by reference?
+124) What is Dict and List comprehensions are?
+125) What are built-in type does python provides?
+126) Explain namespace in Python
+127) What is lambda in Python?
+128) Why lambda forms in python do not have statements?
+129) Explain pass in Python
+130) In Python what are iterators?
+131) What is the unittest in Python?
+132) Explain slicing in Python?
+133) What are generators in Python?
+134) What is docstring in Python?
+135) How can you copy an object in Python?
+136) What is negative index in Python?
+137) How can you convert a number to a string?
+138) What is the difference between xrange and range?
+139) What is module and package in Python?
+140) What are the rules for local and global variables in Python?
+141) How can you share global variables across modules?
+142) Explain how can you make a Python Script executable on Unix?
+143) Explain how to delete a file in Python?
+144) How can you access a module written in Python from C?
+145) What is the use of // operator in Python?
+146) Mention five benefits of using Python
+147) Mention the use of the split function in Python
+148) Explain Flask and its benefits
+149) What is the difference between Django, Pyramid, and Flask?
+150) What is Flask-WTF and what are their features?
+151) Explain what is the common way for the Flask script to work?
+152) Explain how you can access sessions in Flask?
+153) Is Flask an MVC model, and if yes give an example showing MVC pattern for your application?
+154) Explain database connection in Python Flask?
+155) If you have multiple Memcache servers, and one of them fails that contain data, will it try to get them?
+156) Explain how you can minimize the Memcached server outages in your Python Development?
+157) Explain what is Dogpile effect? How can you prevent this effect?
+158) Explain how memcached should not be used in your Python project?
+159) What is Python If Statement?
+160) Explain While loop in Python with example
+161) What is enumerate() in Python?
+162) How can you use for loop to repeat the same statement over and again?
+163) What is Tuple Matching in Python?
+164) Explain Dictionary in Python with example
+165) How can you copy the entire dictionary to a new dictionary?
+166) How can you Update Python Dictionary?
+167) Give example of dictionary items() method
+168) How can you sort elements in Python dictionary?
+169) Give an example of Dictionary len() and Python List cmp() method
+170) What are all dictionary methods:
+171) Explain Arithmetic operators with example
+172) Give example of logical operators
+173) Explain membership operators with example
+174) Explain arrays in Pythons with example
+175) How can you access array elements?
+176) How can you insert elements in array?
+177) How can you delete elements in array?
+178) How can you search and get the index of a value in an array?
+179) How can you reverse array in Python?
+180) Give example to convert array to Unicode
+181) Give an example of a class in Python
+182) Explain Inheritance with example
+183) Give example of Python constructors
+184) How can you access values in string?
+185) Explain all string operators with example
+186) Give example of sleep() function in Python
+187) What is timmer method in Python?
+188) Give example of calendar class
+189) Explain Python ZIP file with example
+190) What are the common examples of exceptions in Python?
+191) Explain important Python errors
+192) Explain JSON dumps() in Python with example
+193) Explain in detail JSON to Python (Decoding) with example
+194) Write code for encode() method
+195) Write a Python code for array in numpy to create Python Matrix
+196) Write a Phyhon code for matrix subtraction
+197) Write code for matrix multiplication
+198) Explain slicing of matrix with example	
+199) Write Python code to find average via loop
+200) Write a code for list count 
+201) Write a code to get index of an element in a list using for loop
+202) Give an example of Python type()
+203) How can you print without a newline in Python?
+204) How to print the star(*) pattern without newline and space?
+205)
+206)
+207)
+208)
+209)
+210)
+211)
+212)
+213)
+214)
+215)
+216)
+217)
+218)
+219)
+220)
+221)
+222)
+223)
+224)
+225)
+226)
+227)
+228)
+229)
+230)
+231)
+232)
+233)
+234)
+235)
+236)
+237)
+238)
+239)
+240)
+241)
+242)
+243)
+244)
+245)
+246)
+247)
+248)
+249)
+250)
+251)
+252)
+253)
+254)
+255)
+256)
+257)
+258)
+259)
+260)
+261)
+262)
+263)
+264)
+265)
+266)
+267)
+268)
+269)
+270)
+271)
+272)
+273)
+274)
+275)
+276)
+277)
+278)
+279)
+280)
+281)
+282)
+283)
+284)
+285)
+286)
+287)
+288)
+289)
+290)
+291)
+292)
+293)
+294)
+295)
+296)
+297)
+298)
+299)
+300)
